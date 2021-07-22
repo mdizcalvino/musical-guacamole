@@ -1,6 +1,3 @@
+instrucciones
 
-instrucciones txt
-to the server
-
-cambios en sample branch
-
+pull request review
