@@ -1,5 +1,3 @@
-instrucciones txt
-to the server
+instrucciones
 
-
-instrucciones desde 'add-more-instructions' branch
+pull request review
